@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sameel\\Learning Project 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFB062C-703C-874D-1481-9AD8A57CE4AB}|Assembly-CSharp.csproj|c:\\users\\sameel\\learning project 2\\assets\\scripts\\spawnmanagertopdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFB062C-703C-874D-1481-9AD8A57CE4AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnmanagertopdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFB062C-703C-874D-1481-9AD8A57CE4AB}|Assembly-CSharp.csproj|C:\\Users\\Sameel\\Learning Project 2\\assets\\challenge 2\\scripts\\detectcollisionsx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFB062C-703C-874D-1481-9AD8A57CE4AB}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 2\\scripts\\detectcollisionsx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFB062C-703C-874D-1481-9AD8A57CE4AB}|Assembly-CSharp.csproj|c:\\users\\sameel\\learning project 2\\assets\\scripts\\spawnmanagerleftright.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFB062C-703C-874D-1481-9AD8A57CE4AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnmanagerleftright.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\sameel\\learning project 2\\assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFB062C-703C-874D-1481-9AD8A57CE4AB}|Assembly-CSharp.csproj|C:\\Users\\Sameel\\Learning Project 2\\assets\\scripts\\destroyoutofbounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFB062C-703C-874D-1481-9AD8A57CE4AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyoutofbounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFB062C-703C-874D-1481-9AD8A57CE4AB}|Assembly-CSharp.csproj|C:\\Users\\Sameel\\Learning Project 2\\assets\\scripts\\move forward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFB062C-703C-874D-1481-9AD8A57CE4AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\move forward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFB062C-703C-874D-1481-9AD8A57CE4AB}|Assembly-CSharp.csproj|C:\\Users\\Sameel\\Learning Project 2\\assets\\scripts\\player_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFB062C-703C-874D-1481-9AD8A57CE4AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFB062C-703C-874D-1481-9AD8A57CE4AB}|Assembly-CSharp.csproj|C:\\Users\\Sameel\\Learning Project 2\\assets\\scripts\\firecarrot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFB062C-703C-874D-1481-9AD8A57CE4AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\firecarrot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpawnManagerLeftRight.cs",
+              "DocumentMoniker": "C:\\Users\\Sameel\\Learning Project 2\\Assets\\Scripts\\SpawnManagerLeftRight.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnManagerLeftRight.cs",
+              "ToolTip": "C:\\Users\\Sameel\\Learning Project 2\\Assets\\Scripts\\SpawnManagerLeftRight.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnManagerLeftRight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:03:29.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpawnManagerTopDown.cs",
+              "DocumentMoniker": "C:\\Users\\Sameel\\Learning Project 2\\Assets\\Scripts\\SpawnManagerTopDown.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnManagerTopDown.cs",
+              "ToolTip": "C:\\Users\\Sameel\\Learning Project 2\\Assets\\Scripts\\SpawnManagerTopDown.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnManagerTopDown.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:03:06.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetectCollisionsX.cs",
+              "DocumentMoniker": "C:\\Users\\Sameel\\Learning Project 2\\Assets\\Challenge 2\\Scripts\\DetectCollisionsX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 2\\Scripts\\DetectCollisionsX.cs",
+              "ToolTip": "C:\\Users\\Sameel\\Learning Project 2\\Assets\\Challenge 2\\Scripts\\DetectCollisionsX.cs",
+              "RelativeToolTip": "Assets\\Challenge 2\\Scripts\\DetectCollisionsX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:39:00.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpawnManager.cs",
+              "DocumentMoniker": "C:\\Users\\Sameel\\Learning Project 2\\Assets\\Scripts\\SpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnManager.cs",
+              "ToolTip": "C:\\Users\\Sameel\\Learning Project 2\\Assets\\Scripts\\SpawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:30:46.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DestroyOutofBounds.cs",
+              "DocumentMoniker": "C:\\Users\\Sameel\\Learning Project 2\\Assets\\Scripts\\DestroyOutofBounds.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyOutofBounds.cs",
+              "ToolTip": "C:\\Users\\Sameel\\Learning Project 2\\Assets\\Scripts\\DestroyOutofBounds.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyOutofBounds.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:01:19.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Move Forward.cs",
+              "DocumentMoniker": "C:\\Users\\Sameel\\Learning Project 2\\Assets\\Scripts\\Move Forward.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Move Forward.cs",
+              "ToolTip": "C:\\Users\\Sameel\\Learning Project 2\\Assets\\Scripts\\Move Forward.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Move Forward.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:46:48.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FireCarrot.cs",
+              "DocumentMoniker": "C:\\Users\\Sameel\\Learning Project 2\\Assets\\Scripts\\FireCarrot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FireCarrot.cs",
+              "ToolTip": "C:\\Users\\Sameel\\Learning Project 2\\Assets\\Scripts\\FireCarrot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FireCarrot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:41:55.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player_Movement.cs",
+              "DocumentMoniker": "C:\\Users\\Sameel\\Learning Project 2\\Assets\\Scripts\\Player_Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player_Movement.cs",
+              "ToolTip": "C:\\Users\\Sameel\\Learning Project 2\\Assets\\Scripts\\Player_Movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player_Movement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:22:10.183Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
